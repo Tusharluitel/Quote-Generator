@@ -98,20 +98,6 @@ button:active{
 	color: #ffff00;
 }
 
-/* Loader */
-.loader {
-	border: 16px solid #f3f3f3;
-	border-top: 16px solid #ffd5cc;
-	border-right: 16px solid #c5afda;
-	border-bottom: 16px solid #a585c1;
-	border-left: 16px solid #eebbcc;
-	border-radius: 50%;
-  	width: 120px;
-  	height: 120px;
-  	animation: spin 2s linear infinite;
-
-
-}
 
 @keyframes spin {
 	0% { transform: rotate(0deg); }
